@@ -1,0 +1,11 @@
+# Memastikan Variebal Integer, String, Float, dan Boolean
+
+a= 5
+b=  "Hello"
+c= 4.5
+d= False
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
