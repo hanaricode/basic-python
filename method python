@@ -1,0 +1,25 @@
+#bukan progam
+#beberapa method python yang sering digunakan
+
+➜ append( ) = tambah diakhir
+➜ clear( ) = hapus semua isi
+➜ copy( ) = bikin salinan (shallow)
+➜ count( ) = hitung kemunculan nilai tertentu
+➜ extend( ) = menggabungkan list lain atau iterable
+➜ index( ) = cari posisi pertama nilai tertentu
+➜ insert( ) = sisip diposisi indeks tertentu
+➜ pop( ) = membuang dan kembalikan item sesuai index (default -1)
+➜ remove( ) = hapus berdasarkan nilai
+➜ reverse( ) = membalikan urutan list
+➜ sort( ) = urutkan elemen
+
+#Set di python
+➜ Set = unordered, gak punya urutan tetap
+➜ Unchangeable, gak bisa ganti elemen yang sudah ada tapi bisa hapus/tambah elemen baru
+➜ Unindexed, bisa akses pakai indeks seperti list
+➜ Duplicate, tidak boleh, jika ada akan diabaikan
+
+#contoh set
+
+buah = {"Apel", "Nanas", "Anggur", "Mangga", "Durian"}
+print(buah)
