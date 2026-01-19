@@ -13,6 +13,15 @@
 ➜ reverse( ) = membalikan urutan list
 ➜ sort( ) = urutkan elemen
 
+➜ len( ) = menghitung panjang karakter dari suatu object
+➜ hash( ) = menghasilkan kode hash berupa integer berukuran tetap
+➜ round( ) = membulatkan integer atau float
+➜ hex( ) = mengubah dari integer ke heksadesimal
+➜ int( ) = mengubah dari string atau float ke integer
+➜ float( ) = mengubah dari string atau integer ke float
+➜ chr( ) = mengubah dari kode Unicode ke string
+➜ tuple( ) = menghasilkan sebuah tuple
+
 #Set di python
 ➜ Set = unordered, gak punya urutan tetap
 ➜ Unchangeable, gak bisa ganti elemen yang sudah ada tapi bisa hapus/tambah elemen baru
