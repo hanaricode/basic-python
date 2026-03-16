@@ -14,3 +14,9 @@ dieRoll()
 print(f"{dice1}, {dice2}, {dice3}")
 dieRoll()
 print(f"{dice1}, {dice2}, {dice3}")
+
+-----------------------------------------
+
+# mendapatkan nomor random
+import random
+print(f"Random number: {random.randint(1, 100)}")
