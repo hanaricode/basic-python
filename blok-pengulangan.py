@@ -41,4 +41,20 @@ elif x == 0:
 else:
   print("%d bilangan negatif" % x)
 
+-----------------------
+
+cheese = 0
+while cheese <= 10:
+  cheese = cheese + 1
+  if cheese % 2 == 0:
+    print("nilai cheese dengan bilangan genap: ", cheese)
+print("Sudah di luar kondisi while.")
+
+-----------------------
+
+# Print banyak tanpa harus ngetik satu satu
+for i in range (100):
+  name = "Saya Hanari"
+  print ("haii, " + name)
+
 
